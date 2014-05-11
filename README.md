@@ -1,8 +1,7 @@
 vpnbook
 =======
 
-get server,username,passwrod from https://www.vpnbook.com/
-
+get servername,username,password from https://www.vpnbook.com
 
 ==================================
 
